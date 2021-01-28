@@ -1,0 +1,7 @@
+Flask==1.1.2
+pymongo
+flask_pymongo
+flask_jwt_extended
+flasgger
+requests
+dnspython
